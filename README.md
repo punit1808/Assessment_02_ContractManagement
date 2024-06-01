@@ -1,4 +1,4 @@
-# School Grading System
+# Frontend School Grading System
 This Project basically have a contract of SchoolGradingSystem in which we are implementing the contract and displaying the data on frontend using 'React' ,'Ether' library of javaScript and authenticating using Metamask Account.
 
 ## Description
