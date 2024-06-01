@@ -113,7 +113,7 @@ For performing operations MetaMask Account should be already setup and localHost
 
 Now we can perform our contract functions i.e. addStudent, removeStudent, checkGrade, updateGrade after authenticating from our Metamask account.
 
-## For Better Understanding you can refer to Vedio Explaination.
+## For Better Understanding you can refer to Video Explaination.
 
 ### Thanks for Reading
 I hope you Understand the program Code and functioning well.
